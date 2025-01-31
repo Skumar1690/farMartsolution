@@ -15,7 +15,7 @@ This C++ program extracts logs for a specific date from a large log file efficie
 g++ -o log_extractor log_extractor.cpp
 
 # Run the program with a specific date
-./log_2024 YYYY-MM-DD
+./logs_2024 YYYY-MM-DD
 ```
 
 ## Output
